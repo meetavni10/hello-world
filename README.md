@@ -1,2 +1,2 @@
 # hello-world
-Just learning to use create a repository
+Just learning to create a repository
